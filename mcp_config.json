@@ -3,8 +3,7 @@
     "nga": {
       "command": "python",
       "args": ["/your-project-path/nga-mcp-server/nga_mcp_server.py"],
-      "env": {},
-      "description": "NGA论坛MCP服务器，提供爬取NGA论坛帖子、获取板块信息、查询论坛结构等功能。支持获取帖子内容和评论、浏览板块列表、查询论坛板块分类等功能。"
+      "env": {}
     }
   }
 }
